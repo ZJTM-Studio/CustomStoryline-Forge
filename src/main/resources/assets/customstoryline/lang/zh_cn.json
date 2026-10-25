@@ -1,0 +1,18 @@
+{
+  "command.customstoryline.reload.success": "§a[Customstoryline] 重新加载完成！所有文件解析成功。",
+  "command.customstoryline.reload.error.header": "§c[Customstoryline] 重载完成，但有 %s 个文件存在错误：",
+  "command.customstoryline.reload.error.line": "§c- %s",
+  "command.customstoryline.new.success": "§a成功创建剧情 JSON: %s.json",
+  "command.customstoryline.remove.success": "§a已尝试删除剧情: %s",
+  "command.customstoryline.test.not_found": "§c找不到剧情: %s",
+  "command.customstoryline.test.success": "§a已强制触发剧情: %s",
+  "command.customstoryline.unlock.success": "§a已强制解除玩家 %s 的所有锁定",
+  "command.customstoryline.reset.success": "§a已重置玩家 %s 的所有剧情状态",
+  "command.customstoryline.manage.set": "§a已将玩家 %s 的剧情 %s 设置为已触发",
+  "command.customstoryline.manage.reset": "§a已重置玩家 %s 的剧情 %s",
+
+  "message.customstoryline.block.move": "§c剧情播放中，禁止移动！",
+  "message.customstoryline.block.jump": "§c剧情播放中，禁止跳跃！",
+  "message.customstoryline.block.interact": "§c剧情播放中，禁止交互！",
+  "message.customstoryline.block.perspective": "§c剧情播放中，禁止转动视角！"
+}

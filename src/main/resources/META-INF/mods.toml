@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="CC0-1.0"
+[[mods]]
+modId="customstoryline"
+version="0.0.1"
+displayName="Custom Storyline"
+description="A JSON based custom storyline mod."

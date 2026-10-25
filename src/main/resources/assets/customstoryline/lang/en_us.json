@@ -1,0 +1,18 @@
+{
+  "command.customstoryline.reload.success": "§a[Customstoryline] Successfully reloaded all storylines.",
+  "command.customstoryline.reload.error.header": "§c[Customstoryline] Reloaded with %s errors:",
+  "command.customstoryline.reload.error.line": "§c- %s",
+  "command.customstoryline.new.success": "§aSuccessfully created storyline JSON: %s.json",
+  "command.customstoryline.remove.success": "§aAttempted to delete storyline: %s",
+  "command.customstoryline.test.not_found": "§cStoryline not found: %s",
+  "command.customstoryline.test.success": "§aForce triggered storyline: %s",
+  "command.customstoryline.unlock.success": "§aAll locks removed for player %s",
+  "command.customstoryline.reset.success": "§aReset all storyline states for player %s",
+  "command.customstoryline.manage.set": "§aSet storyline %s as triggered for player %s",
+  "command.customstoryline.manage.reset": "§aReset storyline %s for player %s",
+
+  "message.customstoryline.block.move": "§cYou cannot move during the cutscene!",
+  "message.customstoryline.block.jump": "§cYou cannot jump during the cutscene!",
+  "message.customstoryline.block.interact": "§cYou cannot interact during the cutscene!",
+  "message.customstoryline.block.perspective": "§cYou cannot look around during the cutscene!"
+}
